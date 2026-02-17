@@ -5,7 +5,7 @@ echo "---------------------------------"
 # 1. PREGUNTAR DADES
 read -p "Host de No-IP (ex: toni-api.ddns.net): " NOIP_HOST
 read -p "Usuari de DockerHub (ex: tonicrespi1): " DOCKER_USER
-read -p "Tag de la imatge (ex: v1.0.0): " IMAGE_TAG
+read -p "Tag de la imatge (ex: v1.1.0): " IMAGE_TAG
 
 # 2. Instal·lació de Docker
 echo "Instal·lant Docker..."
